@@ -69,7 +69,7 @@
   
   - It helps automate tasks like provisioning, configuration management, continuous integration, and deployment, enhancing efficiency and reducing human error.
 
-## 10 examples of ways we can use scripts in DevOps 
+## Some examples of ways we can use scripts in DevOps 
   
   - Automated deployment of applications and infrastructure.
   - Continuous integration and testing automation.
